@@ -8,3 +8,4 @@
 # Training & Testing
 - Train and test the models
   python train.py
+`<python train.py>` 
