@@ -6,4 +6,5 @@
 - Some basic python packages, such as Numpy, OpenCV, SimpleITK.
 
 # Training & Testing
-- Train and test the models  `python train.py` 
+- Train and test the models  
+`python train.py` 
