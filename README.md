@@ -8,7 +8,7 @@
 # Training & Testing
 - Train and test the models:  
     
-`python train.py`  
+  `python train.py`  
   
   The results will be save to `./model_results_dir`.  
   
